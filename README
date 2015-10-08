@@ -1,6 +1,13 @@
-My project of a solver for basic chemical equation.
+Welcome,
+this is my project of a solver for basic chemical equations.
 
-Was done for Faculty of Mathematics and Physics on Charles University
-in Prague as a programming project in the first semester, hence Pascal
-as the language of choice.
+It was done for Faculty of Mathematics and Physics on Charles University
+in Prague, Czech Republic as a programming project in the first semester,
+hence Pascal as the language of choice.
 
+The source code can be found in the /source folder.
+
+The documentation pdf , written in Czech, can be found in /documentation.
+There also are a few example inputs, with Czech comments in a text file.
+
+Done in Dec 2014 and Jan/Feb 2015.
