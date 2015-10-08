@@ -1,0 +1,41 @@
+Klasicke reakce:
+Cu + HNO3 = H2O + NO + Cu(NO3)2.
+As2O3 + HNO3 + H2O = H3AsO4 + NO.
+K2Cr2O7 + KI + H2SO4 = K2SO4 + Cr2(SO4)3 + I2 + H2O.
+AsH3 + HNO3 = H3AsO4 + NO2 + H2O.
+Cr2O3 + KNO3 + KOH = K2CrO4 + KNO2 + H2O.
+FeSO4 + KMnO4 + H2SO4 = Fe2(SO4)3 + K2SO4 + MnSO4 + H2O.
+Br2 + HClO + H2O = HBrO3 + HCl.
+H2S + HIO3 = S + I2 + H2O.
+I2 + Cl2 + H2O = HIO3 + HCl.
+CuS + HNO3 = Cu(NO3)2 + H2SO4 + NO2 + H2O.
+H2S + H2SO3 = S + H2O.
+Fe + HNO3 = Fe(NO3)3 + NO + H2O.
+K2MnO4 + H2O = KMnO4 + MnO2 + KOH.
+Zn + HNO3 = Zn(NO3)2 + NH4NO3 + H2O.
+HClO4 + H2SO3 = HCl + H2SO4.
+
+Zdroj: http://www.aristoteles.cz/chemie/chemicke_rovnice/redoxni/redoxni-rovnice-priklady.php
+
+Vice-zavorkove slouceniny:
+Al + NaOH + H2O = Na(Al(OH)4) + H2.
+Cu(NO3)2 + K3(Fe(CN)6) = Cu3(Fe(CN)6)2 + KNO3.
+
+Rovnice bez unikatniho reseni:
+CO2 + H2O = H2CO3 + H2O.
+C + O2 = CO + CO2.
+
+Rovnice s resenim, kde jeden koeficient je nula:
+A + B = A.
+
+Rovnice bez reseni:
+A + B = C.
+
+Priklad nahrazeni nemenici se slouceniny a tim zmenseni poctu reseni:
+C6H5H + CH4 = C6H5CH3 + H2. ... nema unikatni
+FenylH + CH4 = FenylCH3 + H2. ... jiz reseni ma
+
+Dalsi priklady:
+C7H5N3O6 = N2 + H2O + CO + C.
+C6H5CH3 + Br2 = C6H5CH2Br + HBr.
+C6H6 + HNO3 = C6H5NO2 + H2O.
